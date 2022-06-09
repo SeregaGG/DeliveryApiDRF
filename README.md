@@ -1,0 +1,1 @@
+### Данный проект выполняет все те же функции, что и проект https://github.com/SeregaGG/DeliveryOrder , но написан с использованием Django REST Framework
